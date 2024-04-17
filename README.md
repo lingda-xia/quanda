@@ -16,5 +16,5 @@ sdkAppID: 1400727502
 ![](./doc/1.png)
 ![](./doc/2.png)
 ![](./doc/3.png)
-![](./doc/14.png)
+![](./doc/4.png)
 
